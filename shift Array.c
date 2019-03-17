@@ -1,4 +1,4 @@
-#include <assert.h>
+
 #include <limits.h>
 #include <math.h>
 #include <stdbool.h>
